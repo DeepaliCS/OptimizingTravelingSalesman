@@ -2,6 +2,8 @@
 
 This project is about exploring different Ai algorithms that can help optimize the travelling salesman problem (given the different ranges of datasets - E.g - TSP_48.txt)
 
+Different range of datasets were tests to create a minimum spanning tree, and the algorithms were used to find the quickest way possible from point A to point B
+
 ## Creation Info
 The project was created in Eclipse IDE, written in Java.
 

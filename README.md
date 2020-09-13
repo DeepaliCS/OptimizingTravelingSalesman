@@ -6,10 +6,10 @@ This project is about exploring different Ai algorithms that can help optimize t
 The project was created in Eclipse IDE, written in Java.
 
 ## Algorithms that were tested:
--Simulated Annealing
--Stochastic Hill climbing
--Random Restart Hill Climbing
--Standard Hill Climbing
+- Simulated Annealing
+- Stochastic Hill climbing
+- Random Restart Hill Climbing
+- Standard Hill Climbing
 
 ## Conclustion
 The Simulated Annealing method is better than others at optimizing the best route given the minimum spanning tree calculations. As more epochs ocurred there were better calculations of the fitness due to leveraging the temperature concept. Whilst the other algorithms had a basic comparisons.
